@@ -1,0 +1,23 @@
+{
+  "name": "bnjsperformance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "case1.js",
+  "dependencies": {
+    "benchmark": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node case1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjbncode/bnjsperformance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjbncode/bnjsperformance/issues"
+  },
+  "homepage": "https://github.com/sjbncode/bnjsperformance#readme"
+}
